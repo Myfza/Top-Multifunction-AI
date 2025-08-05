@@ -1,0 +1,12 @@
+Tool,Link,Description,Overall_Rating,Speed,Accuracy,Creativity,Technical,Cost_Effectiveness,Primary_Strength,Primary_Weakness,Total_Score
+Gemini,https://gemini.google.com/app?hl=id,"Google's multimodal AI that can process text, images, audio, and video. Integrated with Google ecosystem",5,8,9,9,9,9,Multimodal & Integration,Consistency Issues,44
+Meta AI,https://www.meta.ai/,AI assistant from Meta focused on creativity and social interaction. Can generate images and assist with social media,5,8,9,9,8,9,Creative Content,Technical Depth,43
+Claude AI,https://claude.ai/new,"Advanced AI assistant from Anthropic with deep analysis capabilities, strong logical reasoning, and high security",5,8,9,9,9,7,Reasoning & Analysis,Cost & Speed,42
+DeepSeek,https://chat.deepseek.com/,Open-source AI model from China with very strong coding and mathematics capabilities,5,9,8,8,8,9,Coding & Mathematics,Creative Limitations,42
+Kimi,https://www.kimi.com/,AI from Moonshot with extremely long context processing capability (up to 2 million tokens),5,7,9,8,9,8,Long Context Processing,Speed & Language,41
+ChatGPT,https://chatgpt.com/?model=auto,Conversational AI pioneer from OpenAI. Highly versatile with extensive plugin ecosystem,5,8,8,8,8,8,Versatility & Plugins,Cost & Knowledge Cutoff,40
+Qwen,https://chat.qwen.ai/,AI model from Alibaba with multimodal capabilities and excellent Asian language understanding,5,8,8,8,8,8,Asian Language Support,Regional Focus,40
+Mistral,https://chat.mistral.ai/chat,European AI model focused on efficiency and transparency. Excellent for business tasks,4,8,7,7,8,8,Privacy & Business,Performance Gaps,38
+Grok AI,https://grok.com/,AI from xAI (Elon Musk) with real-time access to X/Twitter data,4,9,7,8,7,7,Real-time Social Data,Accuracy Concerns,38
+Poe,https://poe.com/,Aggregator platform allowing access to multiple AI models in one interface,5,8,7,8,8,7,Multi-Model Access,Indirect Access,38
+Copilot,https://copilot.microsoft.com/chats/,Microsoft AI assistant integrated with Office 365 and Windows,4,8,7,7,7,7,Enterprise Integration,Performance Limitations,36
