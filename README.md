@@ -272,7 +272,7 @@ This research is open for contributions! Please:
 
 Questions or feedback:
 - Email: [vizart.id@gmail.com]
-- LinkedIn: [Muhammad Yusuf Aditiya](https://linkedin.com/in/muhammadyusufaditiya)
+- LinkedIn: [Muhammad Yusuf Aditiya](https://linkedin.com/in/myfza)
 - GitHub: [Discussions tab](https://github.com/your-repo/discussions)
 
 ---
