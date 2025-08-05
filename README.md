@@ -271,7 +271,7 @@ This research is open for contributions! Please:
 ## 📞 Contact & Feedback
 
 Questions or feedback:
-- Email: [your-email@example.com]
+- Email: [vizart.id@gmail.com]
 - LinkedIn: [Muhammad Yusuf Aditiya](https://linkedin.com/in/muhammadyusufaditiya)
 - GitHub: [Discussions tab](https://github.com/your-repo/discussions)
 
